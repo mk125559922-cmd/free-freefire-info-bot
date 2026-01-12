@@ -9,7 +9,7 @@ It returns profile data such as level, rank, guild info, credit score, social pr
 
 ## 🚀 Features
 
--  Integrated API to fetch Free Fire account data via UID
+-  Integrated API to fetch Free Fire account data via UID 9880511214
 -  Detailed data: level, rank, guild, credit score, full profile
 - Secure credentials using `.env`.
 
@@ -123,4 +123,5 @@ This project is licensed under the MIT License. Feel free to use and modify it.
 ## Author
 
 [Paul Alfredo](https://github.com/paulafredo)
+
 
